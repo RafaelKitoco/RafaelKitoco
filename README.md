@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RafaelKitoco
-- 👀 Estou interessado em programação 
-- 🌱 Estou aprendendo o Python, Javascript, Php, Html e CSS e Java
-- 💞️ estou de parceria... 
+- 👀 interessado em programação 
+- 🌱 aprendendo o Python, Javascript, Php, Html e CSS e Java
+- 💞️ estou a procura de parceria... 
 - 📫 Facebook : Rafael Kitoco/ email:rkitoco@gmail.com 
 
 <!---
