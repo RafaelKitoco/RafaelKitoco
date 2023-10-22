@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RafaelKitoco
-- 👀 interessado em programação 
-- 🌱 aprendendo o Python, Javascript, Php, Html e CSS e Java
-- 💞️ estou a procura de parceria... 
-- 📫 Facebook : Rafael Kitoco/ email:rkitoco@gmail.com 
+- 👀 Sou um programador FullStacks
+- 🌱 Amo as linguagens Python, Javascript, Linguagem C
+- 💞️ Se quiseres fazer uma parceria comigo envia uma mensagem
+- 📫 Facebook : https://web.facebook.com/r.kitoco / email:rkitoco@gmail.com 
 
 <!---
 RafaelKitoco/RafaelKitoco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
