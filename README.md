@@ -32,7 +32,7 @@
   </a>
   <a href='https://profile.intra.42.fr/users/rpambo' target="_blank"><img alt='42' src='https://img.shields.io/badge/Luanda-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=jotavare&style=flat&color=blue&label=Profile+Visits"></a>
+  <img src="https://komarev.com/ghpvc/?username=RafaelKitoco&style=flat&color=blue&label=Profile+Visits"></a>
   </a>
 </p>
 
