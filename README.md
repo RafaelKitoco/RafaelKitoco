@@ -6,24 +6,24 @@
   </a>
   &nbsp;
   <a href="https://github.com/RafaelKitoco/42-piscine">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_piscine_v1.png" width="265"/>
+    <img src="https://github.com/RafaelKitoco/RafaelKitoco/blob/main/42/banners/profile/github_profile_banner_round_piscine_v1.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/jotavare/42-common-core">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_common_core_v1.png" width="265"/>
+    <img src="https://github.com/RafaelKitoco/RafaelKitocoblob/main/42/banners/profile/github_profile_banner_round_common_core_v1.png" width="265"/>
   </a>
 </p>
 <p float="left" align="center">  
   <a href="https://github.com/jotavare/42-ctf">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_ctf_v1.png" width="265"/>
+    <img src="https://github.com/RafaelKitoco/RafaelKitoco/blob/main/42/banners/profile/github_profile_banner_round_ctf_v1.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://jotavare.github.io">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_registry_v1.png" width="265"/>
+    <img src="https://github.com/RafaelKitoco/RafaelKitoco/blob/main/42/banners/profile/github_profile_banner_round_registry_v1.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/jotavare/100-days-of-code-in-python">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_python_v1.png" width="265"/>
+    <img src="https://github.com/RafaelKitoco/RafaelKitoco/blob/main/42/banners/profile/github_profile_banner_round_python_v1.png" width="265"/>
   </a>
 </p>
 
