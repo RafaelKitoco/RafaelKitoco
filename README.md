@@ -10,7 +10,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/jotavare/42-common-core">
-    <img src="https://github.com/RafaelKitoco/RafaelKitocoblob/main/42/banners/profile/github_profile_banner_round_common_core_v1.png" width="265"/>
+    <img src="https://github.com/RafaelKitoco/RafaelKitoco/blob/main/42/banners/profile/github_profile_banner_round_common_core_v1.png" width="265"/>
   </a>
 </p>
 <p float="left" align="center">  
