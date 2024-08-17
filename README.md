@@ -9,7 +9,7 @@
     <img src="https://github.com/RafaelKitoco/RafaelKitoco/blob/main/42/banners/profile/github_profile_banner_round_piscine_v1.png" width="265"/>
   </a>
   &nbsp;
-  <a href="RafaelKitoco/42-common-core">
+  <a href="https://github.com/RafaelKitoco/42-common-core">
     <img src="https://github.com/RafaelKitoco/RafaelKitoco/blob/main/42/banners/profile/github_profile_banner_round_common_core_v1.png" width="265"/>
   </a>
 </p>
